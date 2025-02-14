@@ -37,7 +37,7 @@ For GPU support change `tensorflow==2.3.0` for `tensorflow-gpu==2.3.0`.
 
 ### Training and inference
 
-Train a model using ```train.py``` on [the full published dataset](https://doi.org/10.5281/zenodo.14006098).
+Train a model by running ```python train.py``` in the command line on [the full published dataset](https://doi.org/10.5281/zenodo.14006098).
 
 Run inference using the attached trained model (in the folder `model`) by `predict.py` or more interactively `inference.ipynb`, sample test images attached ([full dataset](https://doi.org/10.5281/zenodo.14006098)). 
 

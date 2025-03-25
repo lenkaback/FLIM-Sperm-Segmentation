@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/TensorFlow-2.3-ff7c00.svg" /></a>
     <a href="https://doi.org/10.5281/zenodo.14006098">
     <img src="https://img.shields.io/badge/Dataset-Zenodo-024cac.svg"></a>
-        <a href="">
+        <a href="https://doi.org/10.1186/s12915-025-02167-1">
     <img src="https://img.shields.io/badge/Paper-BMC Biology-27dfe9.svg"></a>
 </a>
 </p>
